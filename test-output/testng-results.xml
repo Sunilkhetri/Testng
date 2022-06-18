@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-18T13:42:46 IST" name="Default suite" finished-at="2022-06-18T13:43:14 IST" duration-ms="28943">
+    <groups>
+    </groups>
+    <test started-at="2022-06-18T13:42:46 IST" name="Default test" finished-at="2022-06-18T13:43:14 IST" duration-ms="28943">
+      <class name="Logintestcases.caselogin">
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:42:46 IST" name="launchurl" finished-at="2022-06-18T13:42:50 IST" duration-ms="3972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="launchurl(java.lang.String,java.lang.String)[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:42:50 IST" name="launchurl" data-provider="testdata" finished-at="2022-06-18T13:42:54 IST" duration-ms="4777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dogs]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:42:54 IST" name="closebrowser" finished-at="2022-06-18T13:42:55 IST" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:42:55 IST" name="launchurl" finished-at="2022-06-18T13:42:57 IST" duration-ms="1995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="launchurl(java.lang.String,java.lang.String)[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:42:57 IST" name="launchurl" data-provider="testdata" finished-at="2022-06-18T13:43:04 IST" duration-ms="6933" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rom]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:43:04 IST" name="closebrowser" finished-at="2022-06-18T13:43:05 IST" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="launchurl()[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:43:05 IST" name="launchurl" finished-at="2022-06-18T13:43:08 IST" duration-ms="2561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="launchurl(java.lang.String,java.lang.String)[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:43:08 IST" name="launchurl" data-provider="testdata" finished-at="2022-06-18T13:43:14 IST" duration-ms="6141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mom]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rot]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:Logintestcases.caselogin@61df66b6]" started-at="2022-06-18T13:43:14 IST" name="closebrowser" finished-at="2022-06-18T13:43:14 IST" duration-ms="521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- Logintestcases.caselogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
