@@ -24,8 +24,10 @@ public class Baseclass {
     String browserName = prop.getProperty("browser");
     if (browserName.contentEquals("chrome")) {
     	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Admin\\Desktop\\New folder\\chromedriver.exe");
-         driver = new ChromeDriver();   
-
+         //driver = new ChromeDriver();   
+    	//WebDriverManager.chromedriver().browserVersion("79.0.9").setup(); //To run  specic chrome driver 
+       // WebDriverManager.chromedriver().setup(); // This will run with latest version
+             driver = new ChromeDriver();  
     } else if (browserName.contentEquals("firfox")) {
       // Firefox
 

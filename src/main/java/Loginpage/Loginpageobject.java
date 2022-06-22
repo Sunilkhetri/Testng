@@ -10,7 +10,7 @@ public class Loginpageobject {
 	By password= By.xpath("//input[@id='password']");
 	By login= By.xpath("//input[@id='Login']");
 	
-	
+	//hi
 	public Loginpageobject(WebDriver driver2) {
 	this.driver=driver2;
 	}
